@@ -170,11 +170,11 @@ export const wallpapersData: Wallpaper[] = [
     tags: ['Lotus', 'Aura', 'Meditation', 'Energy']
   },
 
-  // New Wallpapers added by user Kisna Raghuvanshi
+  // New Wallpapers added by user Kisna Raghuvanshi (Cleaned filenames)
   {
-    id: 'Ardhanarishvara_Shiva_Parvati_di._202607162102',
+    id: 'Ardhanarishvara_Shiva_Parvati_202607162102',
     title: 'Ardhanarishvara Shiva Parvati Cosmic Union',
-    url: '/wallpapers/Ardhanarishvara_Shiva_Parvati_di._202607162102.jpeg',
+    url: '/wallpapers/Ardhanarishvara_Shiva_Parvati_202607162102.jpeg',
     aspectRatio: '16:9',
     category: 'Shiva',
     tags: ['Shiva', 'Parvati', 'Ardhanarishvara', 'Cosmic', 'Union']
@@ -204,9 +204,9 @@ export const wallpapersData: Wallpaper[] = [
     tags: ['Buddha', 'Meditation', 'Bodhi Tree', 'Zen']
   },
   {
-    id: 'Buddha_silhouette_against_settin._202607162102',
+    id: 'Buddha_silhouette_against_sunset_202607162102',
     title: 'Buddha Silhouette at Sunset',
-    url: '/wallpapers/Buddha_silhouette_against_settin._202607162102.jpeg',
+    url: '/wallpapers/Buddha_silhouette_against_sunset_202607162102.jpeg',
     aspectRatio: '9:16',
     category: 'Cosmic',
     tags: ['Buddha', 'Sunset', 'Minimalist', 'Zen']
@@ -236,17 +236,17 @@ export const wallpapersData: Wallpaper[] = [
     tags: ['Varanasi', 'Ganga', 'Aarti', 'Temple']
   },
   {
-    id: 'Gayatri_Mantra_golden_Sanskrit_c._202607162101',
+    id: 'Gayatri_Mantra_golden_Sanskrit_202607162101',
     title: 'Gayatri Mantra Gold Calligraphy',
-    url: '/wallpapers/Gayatri_Mantra_golden_Sanskrit_c._202607162101.jpeg',
+    url: '/wallpapers/Gayatri_Mantra_golden_Sanskrit_202607162101.jpeg',
     aspectRatio: '9:16',
     category: 'Cosmic',
     tags: ['Gayatri Mantra', 'Sanskrit', 'Mantra', 'Gold']
   },
   {
-    id: 'Goddess_Durga\'s_eyes_glowing_202607162102',
+    id: 'Goddess_Durgas_eyes_glowing_202607162102',
     title: 'Goddess Durga Glowing Eyes',
-    url: '/wallpapers/Goddess_Durga\'s_eyes_glowing_202607162102.jpeg',
+    url: '/wallpapers/Goddess_Durgas_eyes_glowing_202607162102.jpeg',
     aspectRatio: '9:16',
     category: 'Durga',
     tags: ['Durga', 'Eyes', 'Trinetra', 'Energy']
@@ -276,25 +276,25 @@ export const wallpapersData: Wallpaper[] = [
     tags: ['Lakshmi', 'Lotus', 'Ocean', 'Wealth']
   },
   {
-    id: 'Goddess_Lakshmi_showering_gold_c._202607162101',
+    id: 'Goddess_Lakshmi_showering_gold_202607162101',
     title: 'Lakshmi Showering Gold Coins',
-    url: '/wallpapers/Goddess_Lakshmi_showering_gold_c._202607162101.jpeg',
+    url: '/wallpapers/Goddess_Lakshmi_showering_gold_202607162101.jpeg',
     aspectRatio: '9:16',
     category: 'Cosmic',
     tags: ['Lakshmi', 'Gold', 'Shower', 'Abundance']
   },
   {
-    id: 'Goddess_Saraswati_playing_veena_._202607162103',
+    id: 'Goddess_Saraswati_playing_veena_202607162103',
     title: 'Goddess Saraswati Playing Veena',
-    url: '/wallpapers/Goddess_Saraswati_playing_veena_._202607162103.jpeg',
+    url: '/wallpapers/Goddess_Saraswati_playing_veena_202607162103.jpeg',
     aspectRatio: '16:9',
     category: 'Saraswati',
     tags: ['Saraswati', 'Veena', 'River', 'Wisdom']
   },
   {
-    id: 'Goddess_Saraswati_portrait_holdi._202607162102',
+    id: 'Goddess_Saraswati_portrait_202607162102',
     title: 'Goddess Saraswati Divine Portrait',
-    url: '/wallpapers/Goddess_Saraswati_portrait_holdi._202607162102.jpeg',
+    url: '/wallpapers/Goddess_Saraswati_portrait_202607162102.jpeg',
     aspectRatio: '9:16',
     category: 'Saraswati',
     tags: ['Saraswati', 'Portrait', 'Veena', 'Wisdom']
@@ -364,17 +364,17 @@ export const wallpapersData: Wallpaper[] = [
     tags: ['Ganesha', 'Vector', 'Minimalist', 'Line Art']
   },
   {
-    id: 'Lord_Hanuman_flying_upwards_hold._202607162102',
+    id: 'Lord_Hanuman_flying_upwards_202607162102',
     title: 'Lord Hanuman Flying Upwards',
-    url: '/wallpapers/Lord_Hanuman_flying_upwards_hold._202607162102.jpeg',
+    url: '/wallpapers/Lord_Hanuman_flying_upwards_202607162102.jpeg',
     aspectRatio: '9:16',
     category: 'Hanuman',
     tags: ['Hanuman', 'Flying', 'Gada', 'Power']
   },
   {
-    id: 'Lord_Hanuman_meditating_with_Ram._202607162102',
+    id: 'Lord_Hanuman_meditating_with_Ram_202607162102',
     title: 'Hanuman Meditating on Lord Ram',
-    url: '/wallpapers/Lord_Hanuman_meditating_with_Ram._202607162102.jpeg',
+    url: '/wallpapers/Lord_Hanuman_meditating_with_Ram_202607162102.jpeg',
     aspectRatio: '9:16',
     category: 'Hanuman',
     tags: ['Hanuman', 'Meditation', 'Ram', 'Devotion']
@@ -412,9 +412,9 @@ export const wallpapersData: Wallpaper[] = [
     tags: ['Surya', 'Sun', 'Chariot', 'Power']
   },
   {
-    id: 'Lord_Vishnu_holding_Sudarshana_C._202607162102',
+    id: 'Lord_Vishnu_holding_Sudarshana_Chakra_202607162102',
     title: 'Lord Vishnu Sudarshana Chakra',
-    url: '/wallpapers/Lord_Vishnu_holding_Sudarshana_C._202607162102.jpeg',
+    url: '/wallpapers/Lord_Vishnu_holding_Sudarshana_Chakra_202607162102.jpeg',
     aspectRatio: '9:16',
     category: 'Cosmic',
     tags: ['Vishnu', 'Sudarshana', 'Chakra', 'Cosmic']
@@ -428,17 +428,17 @@ export const wallpapersData: Wallpaper[] = [
     tags: ['Vishnu', 'Sheshnaag', 'Cosmic Ocean', 'Peace']
   },
   {
-    id: 'Lotus_flower_representing_seven_._202607162104',
+    id: 'Lotus_flower_representing_seven_chakras_202607162104',
     title: 'Seven Chakras Lotus Flower',
-    url: '/wallpapers/Lotus_flower_representing_seven_._202607162104.jpeg',
+    url: '/wallpapers/Lotus_flower_representing_seven_chakras_202607162104.jpeg',
     aspectRatio: '16:9',
     category: 'Cosmic',
     tags: ['Lotus', 'Chakras', 'Kundalini', 'Meditation']
   },
   {
-    id: 'Mahamrityunjaya_Mantra_Sanskrit_._202607162103',
+    id: 'Mahamrityunjaya_Mantra_Sanskrit_202607162103',
     title: 'Mahamrityunjaya Mantra Sanskrit',
-    url: '/wallpapers/Mahamrityunjaya_Mantra_Sanskrit_._202607162103.jpeg',
+    url: '/wallpapers/Mahamrityunjaya_Mantra_Sanskrit_202607162103.jpeg',
     aspectRatio: '16:9',
     category: 'Shiva',
     tags: ['Shiva', 'Mantra', 'Sanskrit', 'Calligraphy']
@@ -460,25 +460,25 @@ export const wallpapersData: Wallpaper[] = [
     tags: ['Om', 'Neon', 'Glow', 'Minimalist']
   },
   {
-    id: 'Panchmukhi_Hanuman_with_cosmic_w._202607162104',
+    id: 'Panchmukhi_Hanuman_with_cosmic_weapons_202607162104',
     title: 'Panchmukhi Hanuman Power',
-    url: '/wallpapers/Panchmukhi_Hanuman_with_cosmic_w._202607162104.jpeg',
+    url: '/wallpapers/Panchmukhi_Hanuman_with_cosmic_weapons_202607162104.jpeg',
     aspectRatio: '16:9',
     category: 'Hanuman',
     tags: ['Hanuman', 'Panchmukhi', 'Cosmic', 'Shield']
   },
   {
-    id: 'Shiva\'s_Trishul_Damru_fire_202607162101',
+    id: 'Shivas_Trishul_Damru_fire_202607162101',
     title: 'Shiva Trishul and Sacred Fire',
-    url: '/wallpapers/Shiva\'s_Trishul_Damru_fire_202607162101.jpeg',
+    url: '/wallpapers/Shivas_Trishul_Damru_fire_202607162101.jpeg',
     aspectRatio: '9:16',
     category: 'Shiva',
     tags: ['Shiva', 'Trishul', 'Damru', 'Fire']
   },
   {
-    id: 'Shiva\'s_Trishul_Damru_Himalayan_._202607162101',
+    id: 'Shivas_Trishul_Damru_Himalayan_202607162101',
     title: 'Shiva Trishul Himalayan Dawn',
-    url: '/wallpapers/Shiva\'s_Trishul_Damru_Himalayan_._202607162101.jpeg',
+    url: '/wallpapers/Shivas_Trishul_Damru_Himalayan_202607162101.jpeg',
     aspectRatio: '16:9',
     category: 'Shiva',
     tags: ['Shiva', 'Trishul', 'Damru', 'Himalayas']
@@ -492,17 +492,17 @@ export const wallpapersData: Wallpaper[] = [
     tags: ['Shiva', 'Nataraja', 'Dance', 'Fire']
   },
   {
-    id: 'Shrinathji_Krishna_deity_Pichwai._202607162101',
+    id: 'Shrinathji_Krishna_deity_Pichwai_202607162101',
     title: 'Shrinathji Krishna Pichwai Art',
-    url: '/wallpapers/Shrinathji_Krishna_deity_Pichwai._202607162101.jpeg',
+    url: '/wallpapers/Shrinathji_Krishna_deity_Pichwai_202607162101.jpeg',
     aspectRatio: '9:16',
     category: 'Krishna',
     tags: ['Shrinathji', 'Krishna', 'Pichwai', 'Art']
   },
   {
-    id: 'Silhouette_meditating_person_cha._202607162101',
+    id: 'Silhouette_meditating_person_chakras_202607162101',
     title: 'Kundalini Chakra Silhouette',
-    url: '/wallpapers/Silhouette_meditating_person_cha._202607162101.jpeg',
+    url: '/wallpapers/Silhouette_meditating_person_chakras_202607162101.jpeg',
     aspectRatio: '9:16',
     category: 'Cosmic',
     tags: ['Meditation', 'Chakras', 'Silhouette', 'Kundalini']
